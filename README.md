@@ -57,7 +57,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/matheuscpellanda">
         <img src="https://avatars.githubusercontent.com/u/53081067?v=4" width="100px;" alt="Foto do Mathues Camargo"/><br>
         <sub>
           <b>Matheus Camargo</b>
