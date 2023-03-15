@@ -49,7 +49,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/felipemike">
         <img src="https://avatars.githubusercontent.com/u/112130441?v=4" width="100px;" alt="Foto do Felipe Clemente"/><br>
         <sub>
           <b>Felipe Clemente</b>
